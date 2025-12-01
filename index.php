@@ -122,7 +122,7 @@ if (isset($_SESSION['logueado']) && $_SESSION['logueado'] == TRUE) {
 
                             </form>
                             <p class="u-align-center u-custom-font u-font-ubuntu u-text u-text-2">¿No tienes Cuenta?</p>
-                            <a href="https://clicksocial.online/registro.php"
+                            <a href="registro.php"
                                 class="u-active-none u-border-2 u-border-palette-1-base u-btn u-btn-rectangle u-button-style u-hover-none u-none u-btn-1">¡Registrate!</a>
                             <img class="u-image u-image-default u-preserve-proportions u-image-2" src="images/ayuda.png"
                                 alt="" data-image-width="512" data-image-height="512">
